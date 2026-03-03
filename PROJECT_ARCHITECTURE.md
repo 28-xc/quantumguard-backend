@@ -65,8 +65,6 @@ quantum-guard-backend/
    └─ quantum_guard.db
 ```
 
-> 说明：`data/` 用于运行时落盘，建议加入备份与清理策略；`encrypted_files/` 可放 `.gitkeep`，避免仓库提交密文样本。
-
 ---
 
 ## 如何运行
